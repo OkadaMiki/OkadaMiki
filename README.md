@@ -1,9 +1,9 @@
 <h1>Hi I'm Okada Miki 🍀</h1>
 <p>
-  🌸I am a student in the Web Design course at ECC Computer College. I plan to graduate in March 2026.<br>
-  💪I am aiming to become a front-end engineer, but I am also interested in working in web planning.<br>
-  🤝I communicate a lot with members of the team so that we can create better products as a team.<br>
-  ☺️I also try to properly understand the client's intentions for the quality of the production.
+  🌸 I am a student in the Web Design course at ECC Computer College. I plan to graduate in March 2026.<br>
+  💪 I am aiming to become a front-end engineer, but I am also interested in working in web planning.<br>
+  🤝 I communicate a lot with members of the team so that we can create better products as a team.<br>
+  ☺️ I also try to properly understand the client's intentions for the quality of the production.
 </p>
 
 <p align="left"> 
