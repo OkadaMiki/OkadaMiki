@@ -20,14 +20,14 @@ Can use
 Studying
 </h3>
 
-![](https://skillicons.dev/icons?i=react,next,php)
+![](https://skillicons.dev/icons?i=react,next,php,firebase)
 
 
 <h3 align="left"> 
 Using
 </h3>
 
-![](https://skillicons.dev/icons?i=ps,ai,ae,pr,figma,notion,vscode,discord)
+![](https://skillicons.dev/icons?i=ps,ai,lr,ae,pr,figma,notion,vscode,discord)
 
 <!--
 **OkadaMiki/OkadaMiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
